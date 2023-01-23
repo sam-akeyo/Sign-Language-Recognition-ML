@@ -1,4 +1,4 @@
-# Sign-Language-Recognition-ML
+# SignAI (Sign Language Recognition)
 
 ## Introduction
 This project aims to develop a computer vision system for recognizing American Sign Language (ASL) gestures. The system utilizes a convolutional neural network (CNN) to analyze video footage of a person signing and output the corresponding English translation.
